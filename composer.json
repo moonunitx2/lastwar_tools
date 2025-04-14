@@ -1,0 +1,15 @@
+{
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.13",
+        "league/oauth2-client": "^2.7",
+        "vlucas/phpdotenv": "^5.6",
+        "openai-php/client": "^0.10.3",
+        "twilio/sdk": "^8.3",
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
